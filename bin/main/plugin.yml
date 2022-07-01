@@ -1,0 +1,3 @@
+name: SwitchGamemode
+version: '${version}'
+main: soukunsandesu.switchgamemode.SwitchGamemode

@@ -25,6 +25,8 @@ public class ChangeGamemode implements Listener
                 case SURVIVAL:
                     SwitchTo(event, GameMode.CREATIVE);
                     break;
+                default:
+                    break;
             }
         }
     }
